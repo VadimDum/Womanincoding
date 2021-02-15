@@ -2,8 +2,8 @@
 ### Table of Contents
 
 1. [Background](#background)
-2. [Datasources](#data sources)
-3. [FileDescriptions] (#files)
+2. [Data_Sources](#data)
+3. [Files] (#files)
 4. [Results](#results)
 5. [Licensing, Authors, Acknowledgements](#licensing)
 
@@ -13,7 +13,7 @@ The analysis which is provided in the notebook was prepared for my wife. In the 
 
 I decided to prepare short comparison for women experience in programming by countries to empower her for the next step.
 
-## Data sources <a name="data sources"></a>
+## Data sources <a name="data"></a>
 
 For this project, I was interestested in using Stack Overflow data from 2019 and 2020, as the most recent sources for:
 
@@ -23,7 +23,7 @@ For this project, I was interestested in using Stack Overflow data from 2019 and
 
 The original data sources can be found [here](https://insights.stackoverflow.com/survey)
 
-## File Descriptions <a name="files"></a>
+## Files <a name="files"></a>
 
 There is 1 notebook available here to showcase work related to the above questions.  The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
