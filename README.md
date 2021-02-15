@@ -3,7 +3,7 @@
 
 1. [Background](#background)
 2. [Data_Sources](#data)
-3. [Files_Description] (#files_descr)
+3. [Files_Description](#files_descr)
 4. [Results](#results)
 5. [Licensing, Authors, Acknowledgements](#licensing)
 
