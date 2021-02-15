@@ -3,7 +3,7 @@
 
 1. [Background](#background)
 2. [Data_Sources](#data)
-3. [Files] (#files)
+3. [Files_Description] (#files_descr)
 4. [Results](#results)
 5. [Licensing, Authors, Acknowledgements](#licensing)
 
@@ -23,7 +23,7 @@ For this project, I was interestested in using Stack Overflow data from 2019 and
 
 The original data sources can be found [here](https://insights.stackoverflow.com/survey)
 
-## Files <a name="files"></a>
+## Files Description <a name="files_descr"></a>
 
 There is 1 notebook available here to showcase work related to the above questions.  The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
