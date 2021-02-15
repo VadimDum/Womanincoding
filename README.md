@@ -2,8 +2,8 @@
 ### Table of Contents
 
 1. [Background](#background)
-2. [Data sources](#data sources)
-3. [File Descriptions] (#files)
+2. [Datasources](#data sources)
+3. [FileDescriptions] (#files)
 4. [Results](#results)
 5. [Licensing, Authors, Acknowledgements](#licensing)
 
