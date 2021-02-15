@@ -5,7 +5,7 @@
 2. [Data sources](#data sources)
 3. [File Descriptions] (#files)
 4. [Results](#results)
-5. [Next steps](#nest steps)
+5. [Licensing, Authors, Acknowledgements](#licensing)
 
 ## Background <a name="background"></a>
 
